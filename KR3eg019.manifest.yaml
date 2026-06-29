@@ -1,0 +1,342 @@
+canonical_identifier: bkk:krp/KR3eg019/v1
+canonical_location: https://kanripo.org/bkk/KR3eg019/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 溫病辨症
+  identifiers:
+    krp: KR3eg019
+  tags:
+    kr-categories: KR3eg
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eg019.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3eg019_000.yaml, hash: 'sha256:732c3d78800062d3e90a67bf1639500c3f748e40f1d62d6df127d0b3923a5f22'}
+  - {seq: 1, filename: KR3eg019_001.yaml, hash: 'sha256:afca6afcec6c5c513bdbc0fe1e252598918c5c3ca4b0505e65e2fca62f83ee28'}
+  - {seq: 3, filename: KR3eg019_003.yaml, hash: 'sha256:53ff8d48614333294e043c204d0571896997dab68bd185858c5c76dca2ee495c'}
+  - {seq: 0, filename: KR3eg019_000.yaml, hash: 'sha256:732c3d78800062d3e90a67bf1639500c3f748e40f1d62d6df127d0b3923a5f22'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eg019_000.markers.yaml, hash: 'sha256:d28c322d9d79d4e3c8b86b03ec3b0ed881583f10b5956e6125caf21b67b061dc'}
+  - {seq: 1, role: markers, filename: assets/KR3eg019_001.markers.yaml, hash: 'sha256:4e51bc6c1fd6c133e068b516618ac7a077a98171554a0526c338b67d55e00174'}
+  - {seq: 3, role: markers, filename: assets/KR3eg019_003.markers.yaml, hash: 'sha256:bceb82b7fd72bbd6954a1d84ef5db48465f349a35ebfe1707376901a4c812a13'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eg019_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 495
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg019_jc_000-d3.h1s1
+    span:
+    - front
+    - 495
+    - 757
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg019_jc_000-d4.h1s1
+    span:
+    - front
+    - 757
+    - 1019
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg019_jc_000-d5.h1s1
+    span:
+    - front
+    - 1019
+    - 1634
+  label: 柳序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg019_jc_000-d6.h1s1
+    span:
+    - front
+    - 1634
+    - 2118
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg019_jc_000-d7.h1s1
+    span:
+    - front
+    - 2118
+    - 2601
+  label: 自序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg019_jc_000-d8.h1s1
+    span:
+    - body
+    - 0
+    - 1228
+  label: 凡例
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eg019_jc_001-d9.h1s1
+    span:
+    - body
+    - 0
+    - 10858
+  label: 卷上
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eg019_jc_001-d9d2
+    span:
+    - body
+    - 2
+    - 1054
+  label: 一溫病與傷寒瘟疫受症不同治法亦異
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg019_jc_001-d9d3
+    span:
+    - body
+    - 1054
+    - 2355
+  label: 二溫病要知源流入手方可不錯
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg019_jc_001-d9d4
+    span:
+    - body
+    - 2355
+    - 4419
+  label: 三伏邪有本無標時邪有標無本
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg019_jc_001-d9d5
+    span:
+    - body
+    - 4419
+    - 5129
+  label: 四治溫病以三焦為主以手太陰為始
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg019_jc_001-d9d6
+    span:
+    - body
+    - 5129
+    - 5871
+  label: 五治溫病須善用手厥陰之方斯為妙手
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg019_jc_001-d9d7
+    span:
+    - body
+    - 5871
+    - 6664
+  label: 六治溫病用藥要知中病即已切不可過
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg019_jc_001-d9d8
+    span:
+    - body
+    - 6664
+    - 7387
+  label: 七治溫病要知上焦心主強健邪氣舍心胞而順傳中下者虛先受也
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg019_jc_001-d9d9
+    span:
+    - body
+    - 7387
+    - 9703
+  label: 八伏邪時邪多端要辨大同小異
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eg019_jc_001-d9d10
+    span:
+    - body
+    - 9703
+    - 10858
+  label: 九治溫病要識寒極似熱熱極似寒虛極似實實極似虛四症方不亂言吉凶
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg019_jc_003-d10.h1s1
+    span:
+    - body
+    - 0
+    - 11765
+  label: 卷下
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3eg019_jc_003-d10d2
+    span:
+    - body
+    - 2
+    - 10093
+  label: 十治溫病要辨得表裡虛實寒熱六字明白然後用藥方不差誤
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg019_jc_003-d10d3
+    span:
+    - body
+    - 10093
+    - 10452
+  label: 十一治諸病不驗宜乎反求諸已
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg019_jc_003-d10d4
+    span:
+    - body
+    - 10452
+    - 11426
+  label: 十二治溫病要知正面察死對面知生總訣
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eg019_jc_003-d10d5
+    span:
+    - body
+    - 11426
+    - 11765
+  label: 十三治溫病要知病欲愈及可解症
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eg019_jc_000-d11.h1s1
+    span:
+    - body
+    - 0
+    - 4559
+  label: 附溫病辨症方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg019_jc_000-d11d2
+    span:
+    - body
+    - 6
+    - 142
+  label: 上焦諸方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eg019_jc_000-d11d3
+    span:
+    - body
+    - 142
+    - 238
+  label: 中焦諸方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eg019_jc_000-d11d4
+    span:
+    - body
+    - 238
+    - 313
+  label: 下焦諸方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eg019_jc_000-d11d5
+    span:
+    - body
+    - 313
+    - 413
+  label: 救逆諸方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eg019_jc_000-d11d6
+    span:
+    - body
+    - 413
+    - 2164
+  label: 上焦諸方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eg019_jc_000-d11d7
+    span:
+    - body
+    - 2164
+    - 3039
+  label: 中焦諸方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eg019_jc_000-d11d8
+    span:
+    - body
+    - 3039
+    - 3879
+  label: 下焦諸方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eg019_jc_000-d11d9
+    span:
+    - body
+    - 3879
+    - 4559
+  label: 救逆諸方
+  type: section
+  level: 2
+hash: sha256:4048a395e4134ce301bdf6f6e73fc3785dc884b7494196a148729a5981cdcb6a
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
